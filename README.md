@@ -2,7 +2,7 @@
 
 # Project Titel
 
-### Project Overview
+### Project Scope
 Objective: Describe the main goal of the project, which is to use machine learning techniques to predict a specific outcome based on the given dataset.
 
 Context: Explain the challenges or complexities involved in the domain or field of study. Mention any common obstacles or issues that make the task difficult.
