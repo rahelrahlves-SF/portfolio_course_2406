@@ -18,7 +18,7 @@ Goal: State the ultimate aim of the project, such as identifying specific phenom
 
 ## Jupyter Notebooks
 
-This project consists of xxx Jupyter Notebooks that serve different purposes:
+This project consists of xxx Julorwgjäliewgjpyter Notebooks that serve different purposes:
 
 1. **Notebook1.ipynb**: 
 
